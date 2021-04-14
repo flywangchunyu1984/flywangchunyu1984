@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👯  2013年开始在日本东京从事金融类软件开发，职务：工程师
 - 🥅  2018年开始在日本东京从事管理类软件开发，职务：架构师
 
-<img align="left" alt="Raymond's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raymond-zhao&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Raymond's Github Stats" src="https://github-readme-stats.vercel.app/api?username=flywangchunyu1984&show_icons=true&hide_border=true&count_private=true" />
 
 ### Languages and Tools:
 
