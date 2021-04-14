@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **flywangchunyu1984/flywangchunyu1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +20,10 @@ Here are some ideas to get you started:
 
 <!--END_SECTION:waka-->
 
-- 🔭  软件工程专业2009 年 6 月毕业.
-- 🌱  2013年为止，在大连软件园从事对日软件开发，职务：程序员
-- 👯  2013年开始在日本东京从事金融类软件开发，职务：工程师
-- 🥅  2018年开始在日本东京从事管理类软件开发，职务：架构师
+- 🌱  软件工程专业2009 年 6 月毕业.
+- 🔭  2013年为止，在大连软件园从事对日软件开发，职务：程序员
+- 🔭  2013年开始在日本东京从事金融类软件开发，职务：工程师
+- 🔭  2018年开始在日本东京从事管理类软件开发，职务：架构师
 
 <img align="left" alt="Raymond's Github Stats" src="https://github-readme-stats.vercel.app/api?username=flywangchunyu1984&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
