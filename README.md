@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 
-<!--END_SECTION:waka，职务：程序员-，职务：工程师，职务：架构师->
+<!--END_SECTION:waka，职务：程序员-，职务：工程师，职务：架构师-->
 
 - 🌱  软件工程专业2009年6月毕业.
 - 🔭  2013年为止，在大连软件园从事对日软件开发
